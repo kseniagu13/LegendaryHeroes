@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame.deps.json
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame.dll
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/bin/Debug/netcoreapp3.0/MyFirstGame.pdb
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/obj/Debug/netcoreapp3.0/MyFirstGame.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/obj/Debug/netcoreapp3.0/MyFirstGame.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/obj/Debug/netcoreapp3.0/MyFirstGame.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/obj/Debug/netcoreapp3.0/MyFirstGame.dll
+/Users/kseniagustsenko/Desktop/MyFirstGame/MyFirstGame/obj/Debug/netcoreapp3.0/MyFirstGame.pdb
